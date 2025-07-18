@@ -42,3 +42,5 @@ Após concluir a diagramação, exporte o documento como PDF para criar o e-book
 
 ** Um agradecimento especial ao Felipe Aguiar da DIO, cuja orientação foram fundamentais para a realização deste projeto.
 
+
+https://github.com/wakesantos/projeto_ebook_com_ias/blob/main/files/CSS%20HERO%20v2.3.pdf
